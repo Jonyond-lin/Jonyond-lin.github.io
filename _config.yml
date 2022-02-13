@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jonyond-lin（林靖渝）"
 title_separator          : "-"
 name                     : &name "Jingyu Lin"
-description              : &description "personal description"
+description              : &description "Research scientist at Xiamen University & Tencent"
 url                      : https://jonyond-lin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jonyond-lin/Jonyond-lin.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jingyu Lin"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
